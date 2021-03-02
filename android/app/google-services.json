@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "529949959713",
+    "project_id": "firebitnews",
+    "storage_bucket": "firebitnews.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:529949959713:android:584024b000f71de0ce6560",
+        "android_client_info": {
+          "package_name": "com.example.flutter_app_bit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "529949959713-jqa37ch1u3pu1p1rclav7ovoisdtfbmq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_app_bit",
+            "certificate_hash": "10c8aa5389cdb1b72120661dd00aab9af01b84ec"
+          }
+        },
+        {
+          "client_id": "529949959713-hio2cn9tjru7krlqlban6mf549al9e4c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9B1pBWLeQBby31pDR8sHIFYQd1sespzs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "529949959713-hio2cn9tjru7krlqlban6mf549al9e4c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
